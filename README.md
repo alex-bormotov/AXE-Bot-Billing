@@ -1,4 +1,4 @@
-### Billing (backend) for Axe-Bot
+### Billing (backend) for https://github.com/alex-bormotov/AXE-Bot-Payments-open
 
 > Install on Heroku or serverless or:
 
